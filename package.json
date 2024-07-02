@@ -1,7 +1,7 @@
 {
-  "name": "formula",
+  "name": "formula-for-power-rule",
   "version": "1.0.0",
-  "description": "list of maths formular",
+  "description": "derivative",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,9 +12,12 @@
   },
   "keywords": [
     "maths",
-    "equation"
+    "equation",
+    "derivative",
+    "differentiation",
+    "calculus"
   ],
-  "author": "rufai",
+  "author": "TimTech5",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TheCloneInternship/formula/issues"
